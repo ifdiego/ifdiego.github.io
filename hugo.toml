@@ -1,0 +1,4 @@
+baseURL = 'https://ifdiego.netlify.app/'
+languageCode = 'en-us'
+title = 'Diego Alves'
+disableKinds = ['taxonomy', 'term']
