@@ -1,0 +1,28 @@
+baseURL: https://ifdiego.netlify.app/
+locale: en-us
+title: Diego Alves
+
+theme: hextra
+
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/ifdiego"
+      params:
+        icon: github
+    - name: Linkedin
+      weight: 5
+      url: "https://www.linkedin.com/in/ifdiego"
+      params:
+        icon: linkedin

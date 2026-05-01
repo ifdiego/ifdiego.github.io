@@ -1,43 +1,21 @@
 +++
-title = 'About'
 +++
 
-Hey there, my name is Diego Alves.
+<br/><br/>
 
-Currently, I am working as a Software Developer at [Pampili][pampili] focusing
-on database development and e-commerce system integrations.
+Hi, I’m Diego Alves — a software developer passionate about building clean,
+efficient, and enjoyable web experiences. I enjoy exploring both front-end and
+back-end technologies, creating solutions that are functional, well-crafted,
+and thoughtfully designed.
 
-Before that, I was primarily a front-end developer and freelance web developer,
-working with companies like [Unilogic][unilogic], [Well-Up Idiomas][well-up],
-and [Viewit Mobile][viewit] to build responsive, user-friendly web applications
-using modern technologies like React.
+If you want to get in touch or discuss anything you can email me at
+<odiegoasilva@gmail.com>. If you're interested in my projects and open source
+contributions, check out my [GitHub](https://github.com/ifdiego).
 
-Alongside that, I created small personal projects such as [Minicalc][minicalc],
-a minimal interpreter for arithmetic expressions, and [Elsevm][elsevm], a
-virtual machine implementation for the LC-3 architecture. I also contributed
-to [translating][translate] the [React][react] documentation into Brazilian
-Portuguese.
+While you're here, take a look at my [posts](/blog) or read more
+[about me](/about).
 
-Below are a few things that interests me:
-- The [Go][go] programming language. Its standard library is something else.
-- Linux. A long-time user, currently running [NixOS][nixos].
-
-You can find me on [twitter][twitter], [linkedin][linkedin] and
-[github][github], or contact me at [odiegoasilva@gmail.com][email] directly.
-
-Otherwise, I mostly go by the username **@ifdiego** elsewhere.
-
-[elsevm]: https://github.com/ifdiego/elsevm
-[email]: mailto:odiegoasilva@gmail.com
-[github]: https://github.com/ifdiego
-[go]: https://go.dev
-[linkedin]: https://www.linkedin.com/in/ifdiego
-[minicalc]: https://github.com/ifdiego/minicalc
-[nixos]: https://nixos.org
-[pampili]: https://pampili.com.br
-[react]: https://react.dev
-[translate]: https://github.com/reactjs/pt-br.react.dev/pull/23
-[twitter]: https://x.com/ifdiego
-[unilogic]: https://canaltech.com.br/empresa/unilogic-media-group
-[viewit]: https://www.viewit.com.br
-[well-up]: https://wellupidiomas.com.br
+{{< cards >}}
+  {{< card link="/blog" icon="book-open" title="Blog posts" >}}
+  {{< card link="/about" icon="user" title="About me"  >}}
+{{< /cards >}}

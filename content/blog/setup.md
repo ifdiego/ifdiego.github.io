@@ -1,7 +1,7 @@
-+++
-date = '2025-10-21T21:22:52-03:00'
-title = 'Setup and development environment'
-+++
+---
+date: '2025-10-21T21:22:52-03:00'
+title: 'Setup and development environment'
+---
 
 Recently, I got a new laptop for personal use and took the opportunity to
 revisit — and rethink — several of the development tools I use on a daily basis.
