@@ -1,5 +1,5 @@
-baseURL: https://ifdiego.netlify.app/
-locale: en-us
+baseURL: https://ifdiego.github.io/
+languageCode: en-us
 title: Diego Alves
 
 theme: hextra
